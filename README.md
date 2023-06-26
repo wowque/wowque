@@ -10,7 +10,7 @@
 - JavaScript
 - TypeScript
 - HTML
-- CCS
+- CSS
 - C#
 
 ## Проекты
